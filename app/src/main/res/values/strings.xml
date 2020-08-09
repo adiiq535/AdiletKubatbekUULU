@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWorkDesing</string>
+    <string name="enter">Добро пожаловать в</string>
+    <string name="name">Гиктек</string>
+    <string name="login">Введите Логин</string>
+    <string name="pass">Пароль</string>
+    <string name="btn_enter">Войти</string>
+</resources>
